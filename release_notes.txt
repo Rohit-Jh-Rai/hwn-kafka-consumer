@@ -1,0 +1,2 @@
+v1.0.0 @jhinkoerair
+- initial version: generates statistics messages and send it to ActiveMQ
